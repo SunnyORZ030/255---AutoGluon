@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.31077025675225073,
+  "balanced_accuracy": 0.22861841428466456,
+  "mcc": 0.0690781535261737,
+  "eval_metric": "accuracy"
+}
